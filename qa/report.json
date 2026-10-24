@@ -1,0 +1,73 @@
+{
+  "checks": [
+    {
+      "name": "all 7 HTML listed",
+      "passed": true
+    },
+    {
+      "name": "keyword filter",
+      "passed": true
+    },
+    {
+      "name": "favorites",
+      "passed": true
+    },
+    {
+      "name": "English interface",
+      "passed": true
+    },
+    {
+      "name": "persistent preferences",
+      "passed": true
+    },
+    {
+      "name": "presentation 1 starts",
+      "passed": true
+    },
+    {
+      "name": "presentation 2 starts",
+      "passed": true
+    },
+    {
+      "name": "presentation 3 starts",
+      "passed": true
+    },
+    {
+      "name": "presentation 4 starts",
+      "passed": true
+    },
+    {
+      "name": "presentation 5 starts",
+      "passed": true
+    },
+    {
+      "name": "presentation 6 starts",
+      "passed": true
+    },
+    {
+      "name": "presentation 7 starts",
+      "passed": true
+    },
+    {
+      "name": "mobile no horizontal overflow",
+      "passed": true
+    },
+    {
+      "name": "large mobile no overflow",
+      "passed": true
+    },
+    {
+      "name": "PWA service worker active",
+      "passed": true
+    },
+    {
+      "name": "offline home shell",
+      "passed": true
+    },
+    {
+      "name": "no runtime page errors",
+      "passed": true
+    }
+  ],
+  "errors": []
+}
